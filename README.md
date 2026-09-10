@@ -10,7 +10,7 @@ Works on top of **any** Cairo-capable Conky theme. It doesn't read your
 theme's config or other Lua scripts — it just grabs a snapshot of whatever
 Conky already drew and corrupts it.
 
-![example placeholder — add a screenshot or gif here]()
+![glitch effect demo](assets/demo.gif)
 
 ## Before you start
 
