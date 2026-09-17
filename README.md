@@ -116,6 +116,12 @@ touch /tmp/conky_glitch_now
 Within a second, you should see one glitch frame. If nothing happens, see
 [Troubleshooting](#troubleshooting).
 
+## Support
+
+Scan to buy me a coffee:
+
+<img src="qr-code.png" alt="Buy Me a Coffee QR code" width="200">
+
 ## Troubleshooting
 
 **Nothing happens after the preview command.**
